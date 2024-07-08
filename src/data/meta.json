@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "The Fandom Grocery",
+    "description": "At The Fandom Grocery, you can find any kind of fan content your heart desires. Stroll our aisles and find fansites of all sorts in all different fandoms!",
+    "image": "grocery-cart.png",
     "url": "https://webringdemo.netlify.com",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "curiouslittlebird",
+            "url": "http://www.withinmyworld.org/"
         }
     ]
 }
